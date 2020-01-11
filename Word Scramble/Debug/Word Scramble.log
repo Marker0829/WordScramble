@@ -1,0 +1,7 @@
+﻿  PlayGame.cpp
+  WordScramble.cpp
+C:\Users\Mark\source\repos\Word Scramble\Word Scramble\PlayGame.cpp(11,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\Mark\source\repos\Word Scramble\Word Scramble\WordScramble.cpp(19,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Mark\source\repos\Word Scramble\Word Scramble\WordScramble.cpp(69,20): warning C4018:  '<': signed/unsigned mismatch
+  Word Scramble.vcxproj -> C:\Users\Mark\source\repos\Word Scramble\Debug\Word Scramble.exe
