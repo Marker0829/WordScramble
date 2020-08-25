@@ -13,3 +13,9 @@ clock
 windows
 table
 chair
+apple
+github
+forky
+stitch
+eeyore
+hydro
