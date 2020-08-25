@@ -1,0 +1,7 @@
+﻿  PlayGame.cpp
+  WordScramble.cpp
+E:\conta\GItHub\WordScramble\Word Scramble\PlayGame.cpp(11,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+E:\conta\GItHub\WordScramble\Word Scramble\WordScramble.cpp(19,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+E:\conta\GItHub\WordScramble\Word Scramble\WordScramble.cpp(72,57): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Word Scramble.vcxproj -> E:\conta\GItHub\WordScramble\x64\Debug\Word Scramble.exe
